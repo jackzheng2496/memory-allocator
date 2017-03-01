@@ -1,4 +1,6 @@
-# Homework 3 - Memory Allocator
+Memory allocator homework for my computer architecture class.
+
+Was fun, wrote a bunch of tests. Linked lists are nice.
 
 Criterion - unit testing library
 The MIT License (MIT)
